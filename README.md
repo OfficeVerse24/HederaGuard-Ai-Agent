@@ -1,12 +1,16 @@
-# HederaGuard AI Agent
+# Hederaverse
 
-An advanced AI-powered smart contract auditing platform that combines cutting-edge technology with user-friendly design to enhance blockchain security and developer education. Built for the Hedera Hashgraph ecosystem.
+**Hederaverse** — a 2D virtual collaborative space that combines an advanced AI-powered smart contract auditing platform with a user-friendly design. Our goal? To enhance blockchain security while providing a comprehensive educational experience for developers.
 
-
+Built specifically for the Hedera Hashgraph ecosystem, **Hederaverse** is a space where users can interact with smart contracts, analyze them with cutting-edge AI, and learn more about the intricacies of blockchain security—all in a fun, accessible way!
 
 ## Project Overview
 
-HederaGuard AI Agent is an AI-powered tool integrated with Hedera Testnet that automatically audits smart contracts for vulnerabilities, inefficiencies, and compliance with best practices. Designed specifically for a hackathon with focused scope, it uses Google's Gemini 2.0 Flash model for sophisticated smart contract analysis. The project aims to enhance the security and reliability of decentralized applications by providing comprehensive contract auditing services.
+In **Hederaverse** we have integrated HederaGuard AI Agent which is an AI-powered tool integrated with Hedera Testnet that automatically audits smart contracts for vulnerabilities, inefficiencies, and compliance with best practices. Designed specifically for a hackathon with focused scope, it uses Google's Gemini 2.0 Flash model for sophisticated smart contract analysis. The project aims to enhance the security and reliability of decentralized applications by providing comprehensive contract auditing services.
+
+But that’s not all. We’ve also integrated **SaucerSwap** into **Hederaverse**, a decentralized exchange that allows users to swap tokens seamlessly within the Hedera ecosystem. You can connect your wallet to SaucerSwap directly within Hederaverse, making token swaps effortless and secure.
+
+To make your experience even better, we’ve included support for several Hedera wallets right inside the platform. You can choose from **HashPack**, **myHbarWallet**, and even **MetaMask** via a Chrome browser extension. All the tools you need to connect and interact with Hedera’s ecosystem are right at your fingertips.
 
 ## Features
 
@@ -23,6 +27,7 @@ HederaGuard AI Agent is an AI-powered tool integrated with Hedera Testnet that a
 - **Backend**: Node.js, Express.js
 - **AI Integration**: Google's Gemini 2.0 Flash model
 - **Blockchain**: Hedera Hashgraph (Testnet)
+- **Gaming**: Unity, Photon, Agora
 
 ## Key Integration Files
 
@@ -124,4 +129,4 @@ The AI-powered analysis code is located in:
 
 ---
 
-Built with ❤️ for the Hedera Hashgraph Hackathon
+Built for the Hedera Agents Hackathon
